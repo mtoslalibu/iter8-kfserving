@@ -1,0 +1,3 @@
+port: 8080
+metricsBackend:
+  url: http://prometheus-operated.kfserving-monitoring:9090

@@ -1,0 +1,7 @@
+namespace: iter8-system
+commonLabels:
+  creator: iter8
+resources:
+  - rbac/
+  - iter8-analytics/
+  - iter8-controller/
